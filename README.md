@@ -1,3 +1,3 @@
-# COMP308-W2019-Lesson1B
+# COMP308-W2019-Lesson2C
 
-Demo project for Node js and emerging technologies course
+Demo project for Type Script 
